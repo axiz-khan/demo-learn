@@ -1,2 +1,2 @@
 # demo-learn
-This repo is for learning and experimenting with github.
+This repo is for learning and experimenting with git/github
